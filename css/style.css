@@ -1,0 +1,15 @@
+body{
+ background-image: linear-gradient(to right,rgb(177, 209, 224), rgb(9, 57, 146))
+
+}
+
+h1{
+    font: 1em sans-serif;
+    color: black;
+    font-weight: bold;
+      
+}
+video{
+    border: 2px solid black;
+    box-shadow: 5px 5px rgb(0, 0, 0);
+}
